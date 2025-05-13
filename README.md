@@ -12,6 +12,12 @@ A NodeJS/Express API for mocking a token pagination.
 
 * Clone Repo
 * Run `npm install`
+* Add .env file
+  ```bash
+  API_KEY=
+  TOKEN_SECRET=
+  DEFAULT_PAGE_SIZE=
+  ```
 * Run `npm start`
 * Make calls to the API
 
