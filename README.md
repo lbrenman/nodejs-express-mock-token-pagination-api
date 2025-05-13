@@ -11,7 +11,7 @@ A NodeJS/Express API for mocking a token pagination.
 ## To Run
 
 * Clone Repo
-* Run `npm init`
+* Run `npm install`
 * Run `npm start`
 * Make calls to the API
 
