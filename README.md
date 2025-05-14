@@ -17,6 +17,7 @@ A NodeJS/Express API for mocking a token pagination.
   API_KEY=
   TOKEN_SECRET=
   DEFAULT_PAGE_SIZE=
+  PORT=
   ```
 * Run `npm start`
 * Make calls to the API
